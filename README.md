@@ -1,6 +1,6 @@
 # R Shiny App Assignment
 ## Overall Repository Description
-R-Shiny app coded up to carry out functional differential gene expression analysis given a csv input file. Produces a volcano plot of the data for interpretation. 
+R-Shiny app coded to carry out functional differential gene expression analysis given a csv input file. Produces a volcano plot of the data for interpretation. 
 This assessment was to produce a basic R Shiny app in a time limited situation as partial fulfillment of my MSc Biomedical Genomics programme.
 
 ### Description of app
